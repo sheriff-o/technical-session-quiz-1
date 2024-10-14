@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/technical-session-quiz-1/static/css/main.9fb9d9f2.css",
+    "main.js": "/technical-session-quiz-1/static/js/main.145bce1a.js",
+    "index.html": "/technical-session-quiz-1/index.html",
+    "main.9fb9d9f2.css.map": "/technical-session-quiz-1/static/css/main.9fb9d9f2.css.map",
+    "main.145bce1a.js.map": "/technical-session-quiz-1/static/js/main.145bce1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fb9d9f2.css",
+    "static/js/main.145bce1a.js"
+  ]
+}
